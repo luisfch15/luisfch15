@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**luisfch15/luisfch15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Luis
 
-Here are some ideas to get you started:
+I am a systems engineering student from Costa Rica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I can learn anything you want.
+![Animación de dragon](https://media4.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif)
+
+## About Me
+Currently in my first year of the degree, I still have a lot to learn, but that's what keeps me motivated every single day.
+
+
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Java | C#
+* **UI/UX & Desktop Development:** Java Swing, FlatLaf Look & Feel
+* **Databases & ORM:** MySQL, Microsoft SQL Server, JDBC, Entity Framework
+* **Database Management Tools:** MySQL Workbench, SQL Server Management Studio (SSMS)
+* **IDEs & Tools:** Visual Studio, VS Code, Apache NetBeans, Git, GitHub
+* **Environments & OS:** Linux (Fedora), Virtual Machines (VMs)
